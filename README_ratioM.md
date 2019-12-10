@@ -22,11 +22,12 @@ which contains the methods’ name not invoked in the app.
 
 e.g.
 ```
-Number of Non Invoked Methods: 1014
-Number of Invoked Methods: 3560
+----------------------------------- executing ----------
 
-Please check this directory, invoked_methods.txt has been created
-and nonInvoked_mehotds.txt has been created
+[*] Number of Non Invoked Methods: 1014
+[*] Number of Invoked Methods: 3560
+ [*] Please check this directory, invoked_methods.txt has been created
+
 ```
 
 ### Important Notes
