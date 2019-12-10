@@ -29,7 +29,7 @@ e.g.
 We skip the analysis of third party libs, we only focused on analysing resources coming from `IPZS resources (it.ipzs.cieid)`.
 
 If you would like to include all resources on the app, and that includes resources coming from `com.android.*` for example, you just need to comment an if-statement on the code and then
-on the gradle tools(TAB) do clean and then click on `others > customJar`
+on the gradle tools(TAB) do `clean and then click on others > customJar`
 
 This is the line you should comment out to include all resources.
 ![image1](https://user-images.githubusercontent.com/9632716/70535381-4a427800-1b5d-11ea-8746-c709e416b38e.png)
