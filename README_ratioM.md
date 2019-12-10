@@ -37,3 +37,4 @@ on the gradle tools(TAB) do clean and then click on others > customJar
 
 This is the line you should comment out to include all resources.
 
+![image1](https://user-images.githubusercontent.com/9632716/70535381-4a427800-1b5d-11ea-8746-c709e416b38e.png)
