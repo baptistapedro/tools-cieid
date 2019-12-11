@@ -6,4 +6,4 @@ as shown in the screenshot
 
 
 Note:
-** remember that resources from `androidx/` ,`android/` ,`pl/`, `agency/`, `com/`, `de/` have been ignored
+** remember that resources from `okhttp3`,`androidx/` ,`android/` ,`pl/`, `agency/`, `com/`, `de/` have been ignored
